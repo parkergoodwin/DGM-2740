@@ -1,0 +1,13 @@
+{
+    "transmit.servers": [ // List of servers
+      { // Server object
+        "favorite": "Personal Server", // Name of the Transmit favorite to use
+        "domain": "singletracks.tech/DGM2740/", // Domain to connect to (e.g. example.com)
+        "user": "pgoodwi1", // User used in the connection
+        "protocol": "FTP", // Protocol used in the connection
+        "localRoot": "", // Local root path
+        "remoteRoot": "" // Remote root path
+      },
+      ...
+    ]
+  }
