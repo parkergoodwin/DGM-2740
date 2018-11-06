@@ -1,2 +1,2 @@
 
-/*Desktop */@media only screen and (min-width: 1140px){body{	margin: auto;}.desktop{	display: inline; margin: 50px; }.tablet{	display: none;}.phone{	display: none;}}
+/*Computer/Laptop View */@media only screen and (min-width: 1140px){body{	margin: auto;}.desktop{	display: inline; margin: 50px; }.tablet{	display: none;}.phone{	display: none;}}
