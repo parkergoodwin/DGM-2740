@@ -1,0 +1,33 @@
+
+header{
+	max-width: 75rem;
+	background-color: lightblue;
+	h1{
+		font-size: 60px;
+	}
+	h2{
+		font-size: 30px;
+		display: inline;
+	}
+}
+
+
+main{
+	max-width: 75rem;
+	
+	.secondImage{
+		max-width:33%;
+		float:right;
+	}
+
+
+}
+
+footer{
+	p{
+		max-width: 75rem;
+	text-align: center;
+	background-color: tomato;
+	font-size: 30px;
+	}	
+}
